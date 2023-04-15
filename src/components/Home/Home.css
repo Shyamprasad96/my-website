@@ -1,0 +1,30 @@
+.myimage{
+    height: 100%;
+    width:100%;
+    background-color: black;
+    flex:1;
+    position: relative;
+
+}
+
+.image{
+    margin-left: 15%;
+    height: 100%;
+   
+}
+p{
+    color: #fff;
+    padding-top: 35%;
+    padding-left: 13%;
+    position: absolute;
+    font-size: 4rem;
+}
+
+span{
+    color: #fff;
+    padding-top: 39%;
+    padding-left: 11%;
+    position: absolute;
+    font-size: 1.5rem;
+
+}

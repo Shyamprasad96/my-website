@@ -1,0 +1,63 @@
+.carousel-wrapper {
+    margin: auto;
+    align-items: center;
+    background-color: black;
+  }
+  .about-items{
+    height: 450px;
+    align-content: center;
+    position: relative;
+
+  }
+  .img1-text{
+    position: absolute;
+    background-color: transparent;
+    font-size: 2em;
+    font-weight: bolder;
+    padding-top: 27%;
+    padding-left: 24%;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+  }
+
+  .img2-text{
+    position: absolute;
+    background-color: transparent;
+    font-size: 2em;
+    font-weight: bolder;
+    padding-top: 27%;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    padding-left:5%;
+    padding-right: 5%;
+  }
+
+  .img3-text{
+    position: absolute;
+    background-color: transparent;
+    font-size: 2em;
+    font-weight: bolder;
+    padding-left:55%;
+    padding-top: 23%;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+  
+  }
+
+  .about-page{
+    background-color:black;
+    height: 650px;
+  }
+
+  .about-text{
+    position: absolute;
+    font-size: 1.4rem;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    padding-left:5%
+  }
