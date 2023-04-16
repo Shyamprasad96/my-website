@@ -4,11 +4,10 @@ const Home=()=>{
 // eslint-disable-next-line 
     return(
     <div className="myimage">
-        <p>Shyam Prasad</p>
-        <br/>
-        <br/>
-        <span>I'm a Student</span>
+ <p className="ok">Shyam Prasad</p><br/><br/>
+ <p className="span">I am a Student</p>
      <Image className="image" src="../Shyam.jpg" fluid />
+     
     </div>
     )
 
