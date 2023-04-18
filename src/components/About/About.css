@@ -2,11 +2,13 @@
     margin: auto;
     align-items: center;
     background-color: black;
+    font-family:sans-serif;
   }
   .about-items{
     height: 450px;
     align-content: center;
     position: relative;
+    font-family:sans-serif;
 
   }
   .img1-text{
@@ -19,6 +21,7 @@
     color: #fff;
     text-align: center;
     align-items: center;
+    font-family:sans-serif;
   }
 
   .img2-text{
@@ -32,6 +35,7 @@
     align-items: center;
     padding-left:5%;
     padding-right: 5%;
+    font-family:sans-serif;
   }
 
   .img3-text{
@@ -44,20 +48,192 @@
     color: #fff;
     text-align: center;
     align-items: center;
+    font-family:sans-serif;
   
   }
 
   .about-page{
     background-color:black;
-    height: 650px;
+    height: 100%;
+    font-family:sans-serif;
   }
 
-  .about-text{
-    position: absolute;
-    font-size: 1.4rem;
-    font-weight: bolder;
-    color: #fff;
-    text-align: center;
-    align-items: center;
-    padding-left:5%
+
+  .about .content h3 {
+    font-weight: 700;
+    font-size: 27px;
+    color: #57748f;
+    font-family:sans-serif;
   }
+
+
+  .about .section-title h2 {
+    font-weight: 700;
+    color: #57748f;
+    font-family:sans-serif;
+  }
+  
+  .about .content ul {
+    list-style: none;
+    padding: 0%;
+    font-family:sans-serif;
+  }
+  
+  .about .content ul li {
+    margin-bottom: 23px;
+    display: flex;
+    align-items: center;
+    font-family:sans-serif;
+  }
+  
+  .about .content ul strong {
+    color: #4a6075;
+    margin-right: 10px;
+    font-family:sans-serif;
+
+  }
+  
+  .about .content ul i {
+    font-size: 20px;
+    margin-right: 5px;
+    line-height: 0;
+    font-family:sans-serif;
+  }
+  
+  .about .content p:last-child {
+    margin-bottom: 0;
+    font-family:sans-serif;
+  }
+  
+  .fst-italic{
+    font-size: medium;
+    color: white;
+    position: relative;
+    font-family:sans-serif;
+  }
+
+  .about{
+    color: #fff;
+    background-color: rgb(0, 0, 0);
+    height: 100%;
+    font-size: medium;
+    font-family:sans-serif;
+  }
+
+  .skills .progress .skill .val {
+    float: right;
+    font-style: normal;
+    font-family:sans-serif;
+  }
+
+/*-------------------*/
+
+.skills{
+    margin-top: 2%;
+    font-family:sans-serif;
+}
+
+.progress .skill{
+    font-size: medium;
+    font-family:sans-serif;
+}
+
+.skills .progress {
+    height: 53px;
+    display: block;
+    background: none;
+    padding: 0% 1%;
+    border-top-right-radius: 45px;
+    font-family:sans-serif;
+  }
+  
+  .skills .skill {
+    padding: 10px 0;
+    margin: 0;
+    text-transform: uppercase;
+    display: block;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: #3778b9;
+  }
+  
+  .skills .progress .skill .val {
+    float: right;
+    font-style: normal;
+    font-family:sans-serif;
+  }
+  
+  .resume{
+    margin-top: 3%;
+    font-family:sans-serif;
+  }
+
+  .resume .resume-title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #45505b;
+    font-family:sans-serif;
+  }
+  
+  .resume .resume-item {
+    padding: 0 0 20px 20px;
+    margin-top: -2px;
+    border-left: 2px solid #3778b9;
+    position: relative;
+    font-family:sans-serif;
+  }
+  
+  .resume .resume-item h4 {
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family:sans-serif;
+    color:#24517d;;
+    margin-bottom: 10px;
+  }
+  
+  .resume .resume-item h5 {
+    font-size: 16px;
+    background: #1f1e1e;
+    border-radius: 5px;
+    padding: 5px 15px;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-family:sans-serif;
+  }
+  
+  .resume .resume-item ul {
+    padding-left: 20px;
+    font-family:sans-serif;
+  }
+  
+  .resume .resume-item ul li {
+    padding-bottom: 10px;
+    font-size: medium;
+    color: white;
+    position: relative;
+    font-family:sans-serif;
+  }
+  
+  .resume .resume-item:last-child {
+    padding-bottom: 0;
+    font-family:sans-serif;
+  }
+  
+  .resume .resume-item::before {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50px;
+    left: -9px;
+    top: 0;
+    background: #343131;
+    border: 2px solid #285583;
+    font-family:sans-serif;
+  }
+  
