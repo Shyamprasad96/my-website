@@ -1,6 +1,12 @@
+import "./Personal.css"
 const Personal=()=>{
     return(
-        <center><h1>Personal Page</h1></center>
+        <div class="personal">
+        <center><h1>Update Soon</h1></center>
+
+    
+
+    </div>
     )
 
 }

@@ -7,7 +7,7 @@ const Home=()=>{
  <p className="ok">Shyam Prasad</p><br/><br/>
  <p className="span">I am a Student</p>
      <Image className="image" src="../Shyam.jpg" fluid />
-     
+     <div className="hide"> Shyam Prasad</div>
     </div>
     )
 
