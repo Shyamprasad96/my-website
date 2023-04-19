@@ -33,7 +33,7 @@ const About=()=> {
         <div class="section-title">
          <center><h2>About</h2></center>
          <p class="fst-italic">
-         Master’s in Computer Science at Arizona State University, well-versed with python programming, AWS, proficient in data structures and algorithms and interested in software engineer positions seeking fulltime opportunities from May 2023.
+         I'm Shyam, a highly motivated and skilled computer science graduate from Arizona State University, specializing in Full Stack, Python Programming, AWS, Data Science, Data Structures, and Algorithms.With my strong technical background and passion for problem-solving, I am dedicated to delivering top-notch solutions to complex technical challenges.
             </p>
         </div>
         <div class="row">
@@ -64,7 +64,7 @@ const About=()=> {
               </div>
             </div>
             <p class="fst-italic">
-            Algorithmic Problem-solving, Full Stack, Machine Learning, Data Science and AWS are areas of the greatest interest to me.
+            If you're looking for someone with a sharp mind and a proven track record of success, then look no further. I am eager to connect with you and explore ways in which I can help drive your company's growth and success.
             </p>
           </div>
         </div>

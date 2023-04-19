@@ -1,8 +1,13 @@
+import "./Work.css";
+
 const Work=()=>{
     return(
-        <center><h1>Work Page</h1></center>
+        <div className="work">
+            <center><h1> Update Soon</h1></center>
+        </div>
     )
 
 }
 
 export default Work;
+
