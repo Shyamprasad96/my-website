@@ -237,3 +237,41 @@
     font-family:sans-serif;
   }
   
+
+
+
+  @media screen and (min-width: 1001px) {
+    .img1-text{
+      font-size: 2em;
+    }
+
+    .img2-text{
+      font-size:2em;
+      margin-left: 10%;
+    }
+
+    .img3-text{
+      font-size: 2em;
+    }
+   
+  }
+  
+  @media screen and (max-width: 1000px) {
+    
+    .img1-text{
+    font-size: 1em;
+    margin-top: 8%;
+    }
+
+    .img2-text{
+      font-size: 1em;
+      margin-top: 26%;
+      margin-left: 20%;
+    }
+
+    .img3-text{
+      font-size: 1em;
+      margin-top: 26%;
+    }
+   
+  }

@@ -14,7 +14,8 @@
 
 .image{
     margin-left: 35%;
-    height: 150%;
+    height: 100%;
+    background-color: black;
    
 }
 p{
@@ -24,6 +25,9 @@ p{
     position: absolute;
     font-size: 4rem;
 }
+
+
+
 
 .span{
     color: #fff;
@@ -35,14 +39,7 @@ p{
 
 }
 
-.hide{
-    background-color: black;
-    color: black;
-    height: 200px;
-}
-
-
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 1001px) {
     p{
       font-size: 70px;
       
@@ -53,21 +50,57 @@ p{
 
     .myimage{
         height: 100%;
+        width:100%
+    }
+
+    .home-text{
+        font-size: 25px;
     }
   }
   
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 1000px) {
     p {
-      font-size: 50px;
+      font-size: 35px;
+      margin-top: 25%;
+      
     }
     .span{
         font-size: 25px;
     }
     .myimage{
         height: 100%;
+        width:100%;
+        padding-right:28%;
     }
 
     .image{
         height:300px;
+        margin-right: 20%;
     }
+
+    .home-text{
+        font-size: 20px;
+    }
+  }
+
+  .home-text{
+    color: #fff;
+    background-color: black;
+    word-spacing: 0.1em;
+    position: relative;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+    
+  }
+
+  .homepage{
+    background-color: black;
+    height: 100%;
+  }
+
+  .home-para{
+   margin:0% 7%;
   }
