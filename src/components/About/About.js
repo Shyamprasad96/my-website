@@ -50,13 +50,12 @@ const About=()=> {
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>Jul 6th, 1999</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.dailyleetcode.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+480-791-4967</span></li>
+                 
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Arizona, USA</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>23</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>yanamaddishyamprasad@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>LinkedIn:</strong> <span>ShyamPrasadYanamaddi</span></li>
