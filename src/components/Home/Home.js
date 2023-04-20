@@ -10,7 +10,7 @@ const Home=()=>{
     <div className="myimage">
  <p className="ok">Shyam Prasad</p><br/><br/>
  <p className="span">I am a Student</p>
-     <Image className="image" src="./Shyam.JPG" fluid />
+     <Image className="image" src="Shyam.JPG" fluid />
     </div>
     
     </div>
