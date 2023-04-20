@@ -12,19 +12,19 @@ const About=()=> {
         <p className="img1-text">
             Pursuing masters at Arizona State University
           </p>
-            <img className="as" src="./images/About6.JPG"alt="image1"/>
+            <img className="as" src="./images/About6.jpg"alt="image1"/>
         </div>
         <div className="about-items">
         <p className="img2-text">
           Graduating at May 2023
           </p>
-            <img src="/images/About2.JPG" alt="image2" />
+            <img src="./images/About2.jpg" alt="image2" />
         </div>
         <div className="about-items">
         <p className="img3-text">
             Majors in Software Engineering
           </p>
-            <img src="/images/About1.JPG" alt="image3"/>
+            <img src="./images/About1.jpg" alt="image3"/>
         </div>
     </Carousel>
 </div>
@@ -38,7 +38,7 @@ const About=()=> {
         </div>
         <div class="row">
           <div class="col-lg-4">
-            <img src="./Shyam.JPG" class="img-fluid" alt=""/>
+            <img src="./images/Shyam.jpg" class="img-fluid" alt=""/>
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3>Masters Student</h3>
