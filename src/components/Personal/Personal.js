@@ -11,7 +11,7 @@ const Personal=()=>{
 <Row xs={1} md={2} lg={2} className="g-4">
         <Col className="abb">
           <Card className="each-card" style={{  width:'25rem'}}>
-            <Card.Img variant="top" src="./my-website/Algorithm.jpg" />
+            <Card.Img variant="top" src="./Algorithm.JPG" />
             <Card.Body>
               <Card.Title>Data Structures & Algorithms</Card.Title>
               <Card.Text>
@@ -25,7 +25,7 @@ const Personal=()=>{
         </Col>
         <Col className="abb">
           <Card style={{ width: '25rem' }}>
-            <Card.Img variant="top" src="./my-website/Python.jpg" />
+            <Card.Img variant="top" src="./Python.JPG" />
             <Card.Body>
               <Card.Title>Python Programming Language from Basics</Card.Title>
               <Card.Text>
@@ -45,7 +45,7 @@ const Personal=()=>{
 <Row xs={1} md={2} lg={2} className="g-4">
         <Col className="abb">
           <Card className="each-card" style={{  width:'25rem'}}>
-            <Card.Img variant="top" src="./my-website/Frontend.jpg" />
+            <Card.Img variant="top" src="./Frontend.JPG" />
             <Card.Body>
               <Card.Title>Frontend Developement</Card.Title>
               <Card.Text>
@@ -59,7 +59,7 @@ const Personal=()=>{
         </Col>
         <Col className="abb">
           <Card style={{ width: '25rem' }}>
-            <Card.Img variant="top" src="./my-website/Database.jpg" />
+            <Card.Img variant="top" src="./Database.JPG" />
             <Card.Body>
               <Card.Title>Database</Card.Title>
               <Card.Text>
