@@ -12,19 +12,19 @@ const About=()=> {
         <p className="img1-text">
             Pursuing masters at Arizona State University
           </p>
-            <img className="as" src="./About6.JPG"alt="image1"/>
+            <img className="as" src="./images/About6.JPG"alt="image1"/>
         </div>
         <div className="about-items">
         <p className="img2-text">
           Graduating at May 2023
           </p>
-            <img src="./About2.JPG" alt="image2" />
+            <img src="/images/About2.JPG" alt="image2" />
         </div>
         <div className="about-items">
         <p className="img3-text">
             Majors in Software Engineering
           </p>
-            <img src="./About1.JPG" alt="image3"/>
+            <img src="/images/About1.JPG" alt="image3"/>
         </div>
     </Carousel>
 </div>
